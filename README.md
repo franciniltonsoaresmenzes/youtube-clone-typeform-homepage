@@ -10,3 +10,4 @@
 - React Js
 - Typescript
 - Styled Components
+- yarn
